@@ -1,0 +1,12 @@
+name: d4_random
+version: 1.0.0
+description: Generate random numbers from various distributions.
+repository: https://github.com/d4_random
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  d4_array: ^1.0.0
+  lints: ^2.0.0
+  test: ^1.21.0
